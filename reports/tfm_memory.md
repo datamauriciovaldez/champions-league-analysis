@@ -1,7 +1,7 @@
 # Memoria Académica — UEFA Champions League Data Analysis
 
-**Proyecto de Ciencia de Datos | Nivel TFM**
-**Autor:** ClawdBot Autonomous Agent (datamauriciovaldez)
+**Proyecto de Ciencia de Datos**
+**Autor:** Mauricio Valdez Fusté
 **Fecha:** 2026-04-02
 
 ---
