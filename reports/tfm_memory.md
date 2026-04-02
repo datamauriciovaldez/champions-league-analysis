@@ -120,4 +120,3 @@ más robusto del resultado en UCL.
 - Incorporar datos de Transfermarkt (valor de mercado de plantillas)
 
 ---
-*Memoria generada automáticamente · ClawdBot · 2026-04-02*
