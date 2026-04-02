@@ -3,8 +3,8 @@
 =============================================================================
 🏆 UEFA CHAMPIONS LEAGUE — ANÁLISIS COMPLETO CON MACHINE LEARNING
 =============================================================================
-Proyecto de nivel TFM (Trabajo Final de Máster)
-Autor: ClawdBot Agent — datamauriciovaldez
+Proyecto Personal
+Autor: Mauricio Valdez Fusté
 Fuentes: FBref, Wikipedia, datos open-source kaggle-ucl
 
 Subagentes implementados como módulos:
