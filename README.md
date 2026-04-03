@@ -12,8 +12,7 @@
 
 Este proyecto realiza un análisis exhaustivo de la UEFA Champions League (2015-2025)
 combinando **análisis exploratorio de datos**, **feature engineering avanzado** y modelos de
-**machine learning** para predecir resultados de partidos con rigor metodológico equivalente
-a un Trabajo Final de Máster en Ciencia de Datos.
+**machine learning** para predecir resultados de partidos.
 
 ### Objetivos
 1. Caracterizar estadísticamente el torneo más importante del fútbol europeo
