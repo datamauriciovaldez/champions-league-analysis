@@ -1,6 +1,6 @@
 # 🏆 UEFA Champions League — Análisis Completo con Machine Learning
 
-> **Proyecto de ciencia de datos nivel TFM** | Temporadas 2015-2025 | `2026-04-02`
+> **Proyecto de ciencia de datos** | Temporadas 2015-2025 | `2026-04-02`
 
 [![Python](https://img.shields.io/badge/Python-3.13-blue)](https://python.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-latest-orange)](https://scikit-learn.org)
