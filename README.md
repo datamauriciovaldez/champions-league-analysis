@@ -122,4 +122,4 @@ python3 notebooks/analyze_champions.py
 
 ---
 
-*Análisis generado automáticamente por ClawdBot · 2026-04-02*
+
